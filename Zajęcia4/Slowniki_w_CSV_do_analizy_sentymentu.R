@@ -1,6 +1,6 @@
 
 
-
+#Credits to Karolina Kuligowska
 
 # Słowniki sentymentu
 
